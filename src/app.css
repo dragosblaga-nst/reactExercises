@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.active {
+  color: yellow;
+  padding: 10px;
+}
+
+.inactive {
+  color: white;
+  padding: 10px;
+}
